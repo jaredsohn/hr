@@ -6,7 +6,7 @@
   "repository": {
     "url": "http://www.github.com/jaredsohn/hr"
   },
-  "main": "",
+  "main": "lib/hr.js",
   "bin": {
     "hr": "./bin/hr"
   },
