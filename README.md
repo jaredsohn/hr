@@ -18,6 +18,6 @@ Installation instructions:
 
 It works differently than the shell app for multi-character strings
 
-    $ hr ha
-    hahahahahahahahahahahahahahahahaha # Till the end of your terminal window
+    $ hr =-
+    =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-  # Till the end of your terminal window
     $
