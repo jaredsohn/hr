@@ -16,7 +16,7 @@ Installation instructions:
     ********************************** # Till the end of your terminal window
     $
 
-It works differently than the other app for multi-character strings
+It works differently than the shell app for multi-character strings
 
     $ hr ha
     hahahahahahahahahahahahahahahahaha # Till the end of your terminal window
