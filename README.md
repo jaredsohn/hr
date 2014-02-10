@@ -1,6 +1,6 @@
 Displays an `<hr />` in your terminal.
 
-A version of https://github.com/LuRsT/hr that can be deployed via npm.
+A spiritual fork of https://github.com/LuRsT/hr that can be deployed via npm.
 
 Installation instructions:
 
@@ -21,3 +21,6 @@ It works differently than the shell app for multi-character strings
     $ hr =-
     =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-  # Till the end of your terminal window
     $
+
+
+License: BSD, GPL.
