@@ -1,0 +1,19 @@
+{
+  "author": "Jared Sohn",
+  "name": "hr",
+  "description": "Node commandline application to display <hr> in the console.",
+  "version": "0.1.1",
+  "repository": {
+    "url": "http://www.github.com/jaredsohn/hr"
+  },
+  "main": "",
+  "bin": {
+    "hr": "./bin/hr"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
