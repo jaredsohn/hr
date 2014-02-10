@@ -23,4 +23,10 @@ It works differently than the shell app for multi-character strings
     $
 
 
-License: BSD, GPL.
+You can also use it within your nodejs programs.  Example:
+
+    var hr = require('hr');
+    hr.hr("-");
+
+
+License: MIT, GPL.
