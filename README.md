@@ -23,7 +23,7 @@ It works differently than the shell app for multi-character strings
     $
 
 
-You can also use it within your nodejs programs.  Example:
+You can also use it within your nodejs programs or for debugging in browser JS if you browserify it.  Example for nodejs:
 
     var hr = require('hr');
     hr.hr("-");
